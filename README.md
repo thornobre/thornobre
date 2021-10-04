@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @thornobre
+- 👀 I am interested in learning more about programming.
+- 🌱 I'm currently learning the basics of programming.
+- 📫 How to reach me nobree@hotmail.com.br
